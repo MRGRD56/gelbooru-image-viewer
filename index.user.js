@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         gelbooru quick image viewer
 // @namespace    https://github.com/MRGRD56
-// @version      1.2
+// @version      0.1
 // @author       MRGRD56
 // @match        https://gelbooru.com/index.php
 // @match        https://gelbooru.com/index.php*
